@@ -25,7 +25,7 @@
     "node-uuid": "1.4.8",
     "pg": "^7.9.0",
     "pg-hstore": "^2.3.2",
-    "sequelize": "4.37.7",
+    "sequelize": "5.15.1",
     "sqlite3": "^4.0.6"
   },
   "devDependencies": {
